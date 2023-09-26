@@ -7,3 +7,5 @@ Dependencies After forking repo:
 Tech used: HTML, JavaScript, Node.js
 
 Using JavaScript, Express, Cors and Node.js to serve various information about female vocalists in JSON format.
+
+
